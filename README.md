@@ -22,7 +22,7 @@ All logos in this repository are licensed under [Creative Commons Attribution 4.
 
 # Welcome to Codixyz
 
-![Codixyz Logo](codixyz_logo.png)
+![Codixyz Logo](png/logo-black.png)
 
 ## Who We Are
 
@@ -63,7 +63,6 @@ Thank you for your interest in Codixyz. Let's innovate together!
 
 ## Logos
 
-- ![Black Logo](png/logo-black.png)
 - ![Color Logo](png/logo-color.png)
 - ![Logo (No Background)](png/logo-no-background.png)
 - ![White Logo](png/logo-white.png)
