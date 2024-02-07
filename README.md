@@ -63,6 +63,6 @@ Thank you for your interest in Codixyz. Let's innovate together!
 
 ## Logos
 
-- ![Color Logo](png/logo-color.png)
-- ![Logo (No Background)](png/logo-no-background.png)
-- ![White Logo](png/logo-white.png)
+![Logo (No Background)](png/logo-no-background.png)
+![Color Logo](png/logo-color.png)
+![White Logo](png/logo-white.png)
